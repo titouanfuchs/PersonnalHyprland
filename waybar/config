@@ -88,7 +88,7 @@
     },
     "custom/power-menu": {
         "format": " ⏻ ",
-        "on-click": "bash ~/.co361unfig/waybar/scripts/power-menu/powermenu.sh &",
+        "on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh &",
     }, 
     "custom/launcher": {
         "format": "󰣛",
